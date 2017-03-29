@@ -1,0 +1,42 @@
+
+
+body {
+  margin: auto;
+  width: 98%;
+  text-align: center;
+  color: black;
+  background-image: url("../image/arena.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h2 {
+  font-weight:normal;
+  color:#E5F50F;
+  letter-spacing:1pt;
+  word-spacing:2pt;
+  font-size:51px;
+  text-align:center;
+  font-family:impact, sans-serif;line-height:1;
+  
+}
+
+h3 {
+  font-weight:normal;
+  color:#F5190A;
+  letter-spacing:0pt;
+  word-spacing:2pt;
+  font-size:25px;
+  text-align:center;
+  font-family:arial black, sans-serif;line-height:1;
+}
+
+h4 {
+  font-family: "Franklin Gothic Book";
+  color: black;
+  text-align: center;
+  width: 82%;
+  margin-left: 9%;
+  margin-right: 9%;
+}
